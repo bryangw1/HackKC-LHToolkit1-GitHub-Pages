@@ -1,3 +1,5 @@
+| [Home](https://bryangw1.github.io/HackKC-LHToolkit1-GitHub-Pages/) | [Dashboard](https://bryangw1.github.io/HackKC-LHToolkit1-GitHub-Pages/Dashboard.html) |
+
 # Legal Hacker Toolkits: GitHub Pages
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQLcYI3G_fRiabmoPNBzIXkwS2A-C_Girm2CdzVEv03DOduWzHmu9HRaxOd3YHE3XgVcbE1b7GQmCyO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
